@@ -1,4 +1,4 @@
-# letter-pattern-generator-and-detector
+# Letter-Pattern-Generator-and-Detector
 :mega: In this repository I will show you my pattern model. Let's explain some parts of code. Note that, this model only works with 'P' and 'q' letter.
 
 Suppose that we have matrix like that:
